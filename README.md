@@ -7,8 +7,6 @@ Welcome to the Pandemic Portfolio Pursuit project! This repository is dedicated 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
